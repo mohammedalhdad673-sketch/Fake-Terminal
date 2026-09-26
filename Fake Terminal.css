@@ -1,0 +1,35 @@
+
+    body {
+      background-color: black;
+      color: #00ff00;
+      font-family: monospace;
+      padding: 20px;
+      font-size: 1.3em;
+    }
+    #terminal {
+      white-space: pre-wrap;
+      height: 90vh;
+      overflow-y: auto;
+    }
+    #input-line {
+      display: inline;
+    }
+    .prompt1 {
+      color: #00ff00;
+    }
+    .prompt2 {
+      color: #cecece;
+    }
+    .prompt3 {
+      color: #2b83ff;
+    }
+    input {
+      background: none;
+      border: none;
+      color: #cecece;
+      font-family: monospace;
+      font-size: 1em;
+      outline: none;
+      width: 80%;
+    }
+  
